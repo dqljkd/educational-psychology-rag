@@ -1,0 +1,3 @@
+question,reference_answer,gold_sources,gold_notes,difficulty,category
+"系统支持哪些部署方式？","应回答本地部署、单机部署、容器化部署和生产增强版等方式","docs/deployment.md","检查是否召回部署文档中的方案段落","easy","fact"
+"这个系统的评估维度有哪些？","应回答检索质量、生成质量和系统质量三个层面","docs/evaluation.md","检查是否覆盖 Recall@K、Faithfulness、Latency 等","medium","summary"

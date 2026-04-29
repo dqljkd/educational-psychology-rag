@@ -1,0 +1,12 @@
+{
+  "structured_jsonl": "educational_psychology_structured_chunks.jsonl",
+  "pdf_jsonl_files": [
+    "1389703959379_pages.jsonl",
+    "094197-01_pages.jsonl"
+  ],
+  "raw_sources": [
+    "教育心理学_学校心理支持_RAG知识库升级包_txt分块版.txt",
+    "1389703959379.pdf",
+    "094197-01.pdf"
+  ]
+}
